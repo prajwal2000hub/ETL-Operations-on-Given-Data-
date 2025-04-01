@@ -6,7 +6,7 @@ Provided two files containing sales data from two different regions. create a Py
 4. Writes SQL queries to validate the data in database.
 
 ## Running the Script:
-1. Save the script as main.py.
+1. Clone the repository.
 2. Ensure you have pandas installed: pip install pandas.
 3. Place order_region_a.csv and order_region_b.csv in the same directory.
 4. Run the script: python main.py.
